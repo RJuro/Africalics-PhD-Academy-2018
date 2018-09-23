@@ -1,7 +1,10 @@
 # Africalics-PhD-Academy-2018
 Methods workshop at the Africalics 2018 PhD Academy, Marrakesh 
 
-Dr. Daniel S. Hain, Dr. Roman Jurowetzki; Aalborg University, Denmark
+Dr. Daniel S. Hain, dsh@business.aau.dk
+Dr. Roman Jurowetzki, roman@business.aau.dk
+
+Aalborg University, Denmark
 
 ---
 
@@ -24,6 +27,13 @@ Below you will find links to the different things presented during the workshop.
 ---
 
 # Day 1: Intro and Data Preprocessing
+
+## Session 1 - Introduction
+[Slides]()
+
+## Session 2 - Data Munging
+[Notebook]()
+[Notebook (Kaggle) executable](https://www.kaggle.com/danielhain/africalics-2018-session1-data-munging?scriptVersionId=5947882)
 
 # Day 2: Unsupervised and Supervised Machine Learning
 
