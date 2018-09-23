@@ -34,7 +34,7 @@ Below you will find links to the different things presented during the workshop.
 ## Session 2 - Data Munging
 [Notebook]()
 
-[Notebook (Kaggle) executable]https://www.kaggle.com/danielhain/africalics-2018-session1-data-munging?scriptVersionId=5948122)
+[Notebook (Kaggle) executable](https://www.kaggle.com/danielhain/africalics-2018-session1-data-munging?scriptVersionId=5948122)
 
 # Day 2: Unsupervised and Supervised Machine Learning
 
