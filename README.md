@@ -29,10 +29,12 @@ Below you will find links to the different things presented during the workshop.
 # Day 1: Intro and Data Preprocessing
 
 ## Session 1 - Introduction
-[Slides]()
+[Slides](https://rawgit.com/RJuro/Africalics-PhD-Academy-2018/master/slides/S1_DS_intro.pdf)
+
+[Notebook - Adittional infos, will not be covered](https://rawgit.com/RJuro/Africalics-PhD-Academy-2018/master/notebooks/S_1_DS_pipeline.html)
 
 ## Session 2 - Data Munging
-[Notebook]()
+[Notebook](https://rawgit.com/RJuro/Africalics-PhD-Academy-2018/master/notebooks/S_2_data_munging.html)
 
 [Notebook (Kaggle) executable](https://www.kaggle.com/danielhain/africalics-2018-session1-data-munging?scriptVersionId=5948122)
 
