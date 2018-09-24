@@ -36,7 +36,7 @@ Below you will find links to the different things presented during the workshop.
 ## Session 2 - Data Munging
 [Notebook](https://rawgit.com/RJuro/Africalics-PhD-Academy-2018/master/notebooks/S_2_data_munging.html)
 
-[Notebook (Kaggle) executable](https://www.kaggle.com/danielhain/africalics-2018-session1-data-munging?scriptVersionId=5948122)
+[Notebook (Kaggle) executable](https://www.kaggle.com/danielhain/africalics-2018-session-1-data-munging)
 
 # Day 2: Unsupervised and Supervised Machine Learning
 
