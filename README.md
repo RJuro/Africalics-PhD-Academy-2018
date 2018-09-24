@@ -59,3 +59,7 @@ Below you will find links to the different things presented during the workshop.
 
 
 # Day 3: Natural Language Processing
+[Intro: Natrual Language Processing](https://www.kaggle.com/romanj86/introduction-to-nlp)
+[Natrual Language Processing - Exercises](https://www.kaggle.com/romanj86/nlp-intro-exercises)
+
+
