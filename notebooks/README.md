@@ -1,3 +1,3 @@
-## Here you should find all notebooks fromt he session
+## Here you should find all notebooks from the session
 
 ---
