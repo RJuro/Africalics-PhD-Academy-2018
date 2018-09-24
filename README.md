@@ -40,4 +40,17 @@ Below you will find links to the different things presented during the workshop.
 
 # Day 2: Unsupervised and Supervised Machine Learning
 
+## Session 3 - Unsupervised Machine Learning
+
+[Notebook](https://rawgit.com/RJuro/Africalics-PhD-Academy-2018/master/notebooks/S_3_unsupervised_ml.html)
+
+[Notebook (Kaggle) executable](https://www.kaggle.com/danielhain/africalics-2018-session-3-unsupervised-ml)
+
+## Session 4 - Unsupervised Machine Learning
+
+[Notebook](https://rawgit.com/RJuro/Africalics-PhD-Academy-2018/master/notebooks/S_4_supervised_ml.html)
+
+[Notebook (Kaggle) executable](https://www.kaggle.com/danielhain/africalics-2018-session-4-supervised-ml)
+
+
 # Day 3: Natural Language Processing
