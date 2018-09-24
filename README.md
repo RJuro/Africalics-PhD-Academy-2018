@@ -46,11 +46,16 @@ Below you will find links to the different things presented during the workshop.
 
 [Notebook (Kaggle) executable](https://www.kaggle.com/danielhain/africalics-2018-session-3-unsupervised-ml)
 
-## Session 4 - Unsupervised Machine Learning
+[Exploring the nomadlist.io city dataset](https://www.kaggle.com/romanj86/world-regions-and-nomadscore-prediction/notebook)
+
+
+## Session 4 - Supervised Machine Learning
 
 [Notebook](https://rawgit.com/RJuro/Africalics-PhD-Academy-2018/master/notebooks/S_4_supervised_ml.html)
 
 [Notebook (Kaggle) executable](https://www.kaggle.com/danielhain/africalics-2018-session-4-supervised-ml)
+
+[Exercise in Python - Predicting Italian Wines](https://www.kaggle.com/romanj86/predicting-italian-wines)
 
 
 # Day 3: Natural Language Processing
