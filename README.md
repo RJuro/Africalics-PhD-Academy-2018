@@ -44,6 +44,7 @@ Recommended courses:
 - R basics: "Introduction to R" (free course)
 - R unsupervised ML: "Unsupervised Learning in R" (chapter 1 free)
 - R Supervised ML: "Unsupervised Learning in R" (chapter 1 free)
+- R Data visualization: "Data Visualization with ggplot2 (Part 1)" (chapter 1 free)
 
 [Dataquest](https://www.dataquest.io/)
 Similar to datacamp. Python focused. Also more advanced courses on data engineering
@@ -60,6 +61,8 @@ R and Python scripts from the course including the course data. The course can b
 
 [Installing R on your machine](https://www.datacamp.com/community/tutorials/installing-R-windows-mac-ubuntu/)
 
+[Installing the RStudio IDE on your machine](https://www.rstudio.com/products/rstudio/download/#download)
+
 [Installing Python on Windows](https://www.datacamp.com/community/tutorials/installing-anaconda-windows)
 
 [Installing Python on Mac](https://www.datacamp.com/community/tutorials/installing-anaconda-mac-os-x)
@@ -67,10 +70,16 @@ R and Python scripts from the course including the course data. The course can b
 [Network analysis and visualization software](https://gephi.org/)
 
 
+## Help
+
+[Stackoverflow](https://stackoverflow.com): Programming help & advice forum
+
 ## Others
 
 [Informative podcast about professional analytics](https://www.datacamp.com/community/podcast)
 
+
+[R-Bloggers](https://www.r-bloggers.com/):R news and tutorials
 ---
 
 # Day 1: Intro and Data Preprocessing
