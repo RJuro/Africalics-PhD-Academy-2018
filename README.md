@@ -59,7 +59,12 @@ Below you will find links to the different things presented during the workshop.
 
 
 # Day 3: Natural Language Processing
+## Session 5 - Natural Language Processing
+
 [Intro: Natrual Language Processing](https://www.kaggle.com/romanj86/introduction-to-nlp)
+
+[Intro: Natrual Language Processing - Compiled notebook if you cannot open Kaggle](http://nbviewer.jupyter.org/github/RJuro/Africalics-PhD-Academy-2018/blob/master/notebooks/Intro_to_NLP.ipynb)
+
 
 [Natrual Language Processing - Exercises](https://www.kaggle.com/romanj86/nlp-intro-exercises)
 
