@@ -65,7 +65,7 @@ R and Python scripts from the course including the course data. The course can b
 
 ## Others
 
-[Informative podcast about professional analytics]https://www.datacamp.com/community/podcast)
+[Informative podcast about professional analytics](https://www.datacamp.com/community/podcast)
 
 ---
 
