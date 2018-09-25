@@ -40,6 +40,10 @@ More complex bibliometrix software including geospacial features and mapping.
 
 [Datacamp](https://datacamp.com)
 Online courses. Intro to R, Python, Github, Excel and Sheets are free
+Recommended courses:
+- R basics: "Introduction to R" (free course)
+- R unsupervised ML: "Unsupervised Learning in R" (chapter 1 free)
+- R Supervised ML: "Unsupervised Learning in R" (chapter 1 free)
 
 [Dataquest](https://www.dataquest.io/)
 Similar to datacamp. Python focused. Also more advanced courses on data engineering
