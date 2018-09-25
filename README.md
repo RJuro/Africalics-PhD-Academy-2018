@@ -55,8 +55,11 @@ R and Python scripts from the course including the course data. The course can b
 ## Software
 
 [Installing R on your machine](https://www.datacamp.com/community/tutorials/installing-R-windows-mac-ubuntu/)
+
 [Installing Python on Windows](https://www.datacamp.com/community/tutorials/installing-anaconda-windows)
+
 [Installing Python on Mac](https://www.datacamp.com/community/tutorials/installing-anaconda-mac-os-x)
+
 [Network analysis and visualization software](https://gephi.org/)
 
 
