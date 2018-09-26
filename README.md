@@ -61,7 +61,7 @@ Online courses. Intro to R, Python, Github, Excel and Sheets are free
 Recommended courses:
 - R basics: "Introduction to R" (free course)
 - R unsupervised ML: "Unsupervised Learning in R" (chapter 1 free)
-- R Supervised ML: "Unsupervised Learning in R" (chapter 1 free)
+- R Supervised ML: "The Machine Learning Toolbox" (chapter 1 free, introduces to the caret train-control workflow)
 - R Data visualization: "Data Visualization with ggplot2 (Part 1)" (chapter 1 free)
 - [Datacamp Tutorials](https://www.datacamp.com/community/tutorials): Free R & Python Tutorials for specific problems and methods
 
