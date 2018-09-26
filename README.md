@@ -36,6 +36,11 @@ Easy software for bibliometrics
 [Citespace](http://cluster.cis.drexel.edu/~cchen/citespace/)
 More complex bibliometrix software including geospacial features and mapping.
 
+## Papers
+[The Impact of Machine Learning on Economics](http://www.nber.org/chapters/c14009.pdf)
+Susan Athey. The Economics of Artificial Intelligence: An Agenda (forthcoming). University of Chicago Press, January 2018
+
+
 ## Courses
 
 [Datacamp](https://datacamp.com)
