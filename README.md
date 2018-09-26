@@ -63,6 +63,7 @@ Recommended courses:
 - R unsupervised ML: "Unsupervised Learning in R" (chapter 1 free)
 - R Supervised ML: "Unsupervised Learning in R" (chapter 1 free)
 - R Data visualization: "Data Visualization with ggplot2 (Part 1)" (chapter 1 free)
+- [Datacamp Tutorials](https://www.datacamp.com/community/tutorials): Free R & Python Tutorials for specific problems and methods
 
 [Dataquest](https://www.dataquest.io/)
 Similar to datacamp. Python focused. Also more advanced courses on data engineering
