@@ -85,6 +85,17 @@ R and Python scripts from the course including the course data. The course can b
 
 
 [R-Bloggers](https://www.r-bloggers.com/):R news and tutorials
+
+## Machine Learning & Econometrics Introductory Papers
+
+Athey, S., & Imbens, G. W. (2017). The state of applied econometrics: Causality and policy evaluation. Journal of Economic Perspectives, 31(2), 3-32. [--> Available open access here](https://pubs.aeaweb.org/doi/pdfplus/10.1257/jep.31.2.3)
+
+Varian, H. R. (2014). Big data: New tricks for econometrics. Journal of Economic Perspectives, 28(2), 3-28. [--> Available open access here](https://www.aeaweb.org/articles?id=10.1257/jep.28.2.3)
+
+Einav, L., & Levin, J. (2014). The data revolution and economic analysis. Innovation Policy and the Economy, 14(1), 1-24. [--> Available open access here](http://www.nber.org/chapters/c12942.pdf)
+
+Mullainathan, S., & Spiess, J. (2017). Machine learning: an applied econometric approach. Journal of Economic Perspectives, 31(2), 87-106. [--> Available open access here](https://pubs.aeaweb.org/doi/pdfplus/10.1257/jep.31.2.87)
+
 ---
 
 # Day 1: Intro and Data Preprocessing
