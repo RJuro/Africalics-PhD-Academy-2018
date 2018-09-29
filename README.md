@@ -113,7 +113,7 @@ R and Python scripts from the course including the course data. The course can b
 [Notebook - Adittional infos, will not be covered](https://rawgit.com/RJuro/Africalics-PhD-Academy-2018/master/notebooks/S_1_DS_pipeline.html)
 
 ## Session 2 - Data Munging
-[Notebook](https://rawgit.com/RJuro/Africalics-PhD-Academy-2018/master/notebooks/S_2_data_munging.html)
+[Notebook (read-only version)](https://rawgit.com/RJuro/Africalics-PhD-Academy-2018/master/notebooks/S_2_data_munging.html)
 
 [Notebook (Kaggle) executable](https://www.kaggle.com/danielhain/africalics-2018-session-1-data-munging)
 
@@ -121,16 +121,16 @@ R and Python scripts from the course including the course data. The course can b
 
 ## Session 3 - Unsupervised Machine Learning
 
-[Notebook](https://rawgit.com/RJuro/Africalics-PhD-Academy-2018/master/notebooks/S_3_unsupervised_ml.html)
+[Notebook (read-only version)](https://rawgit.com/RJuro/Africalics-PhD-Academy-2018/master/notebooks/S_3_unsupervised_ml.html)
 
 [Notebook (Kaggle) executable](https://www.kaggle.com/danielhain/africalics-2018-session-3-unsupervised-ml)
 
-[Exploring the nomadlist.io city dataset](https://www.kaggle.com/romanj86/world-regions-and-nomadscore-prediction/notebook)
+[Exercise in Python - Exploring the nomadlist.io city dataset](https://www.kaggle.com/romanj86/world-regions-and-nomadscore-prediction/notebook)
 
 
 ## Session 4 - Supervised Machine Learning
 
-[Notebook](https://rawgit.com/RJuro/Africalics-PhD-Academy-2018/master/notebooks/S_4_supervised_ml.html)
+[Notebook (read-only version)](https://rawgit.com/RJuro/Africalics-PhD-Academy-2018/master/notebooks/S_4_supervised_ml.html)
 
 [Notebook (Kaggle) executable](https://www.kaggle.com/danielhain/africalics-2018-session-4-supervised-ml)
 
