@@ -36,6 +36,9 @@ Easy software for bibliometrics
 [Citespace](http://cluster.cis.drexel.edu/~cchen/citespace/)
 More complex bibliometrix software including geospacial features and mapping.
 
+[Application paper by Daniel, mapping the "Innovation Systems" research field](https://rawgit.com/RJuro/Africalics-PhD-Academy-2018/master/slides/The_Development_of_Innovation_System_Research_RR1.pdf)
+
+
 ## Papers on Machine Learning & Applied Econometrics
 
 [The Impact of Machine Learning on Economics](http://www.nber.org/chapters/c14009.pdf)
