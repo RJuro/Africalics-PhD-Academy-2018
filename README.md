@@ -55,7 +55,7 @@ Mullainathan, S., & Spiess, J. (2017). Machine learning: an applied econometric 
 ## Demonstration
 [MIT Startup Cartography Project](https://www.startupmaps.us/home): Initiative by Scott Stern (MIT) using Machine Leaning for real-time forecast of entrepreneurial activity and quality.
 
-[AAU Global Patent Explorer](): Our own project on mapping patent quality and knowledge flows across the globe.
+[AAU Global Patent Explorer](http://35.228.97.122:3838/patent_app/): Our own project on mapping patent quality and knowledge flows across the globe. Just recently won the 1st OECD "Big Data Analytics" challange.
 
 ## Courses
 
