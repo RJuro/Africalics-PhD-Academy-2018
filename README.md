@@ -124,7 +124,7 @@ R and Python scripts from the course including the course data. The course can b
 
 [Notebook (Kaggle) executable](https://www.kaggle.com/danielhain/africalics-2018-session-3-unsupervised-ml)
 
-[Exercise in Python - Exploring the nomadlist.io city dataset](https://www.kaggle.com/romanj86/world-regions-and-nomadscore-prediction/notebook)
+[Notebook (Kaggle) executable: Exercise in Python - Exploring the nomadlist.io city dataset](https://www.kaggle.com/romanj86/world-regions-and-nomadscore-prediction/notebook)
 
 
 ## Session 4 - Supervised Machine Learning
@@ -133,17 +133,16 @@ R and Python scripts from the course including the course data. The course can b
 
 [Notebook (Kaggle) executable](https://www.kaggle.com/danielhain/africalics-2018-session-4-supervised-ml)
 
-[Exercise in Python - Predicting Italian Wines](https://www.kaggle.com/romanj86/predicting-italian-wines)
+[Notebook (Kaggle) executable: Exercise in Python - Predicting Italian Wines](https://www.kaggle.com/romanj86/predicting-italian-wines)
 
 
 # Day 3: Natural Language Processing
 ## Session 5 - Natural Language Processing
 
-[Intro: Natrual Language Processing](https://www.kaggle.com/romanj86/introduction-to-nlp)
+[Notebook (read-only version): Intro: Natrual Language Processing](http://nbviewer.jupyter.org/github/RJuro/Africalics-PhD-Academy-2018/blob/master/notebooks/Intro_to_NLP.ipynb)
 
-[Intro: Natrual Language Processing - Compiled notebook if you cannot open Kaggle](http://nbviewer.jupyter.org/github/RJuro/Africalics-PhD-Academy-2018/blob/master/notebooks/Intro_to_NLP.ipynb)
+[Notebook (Kaggle) executable: Intro: Natrual Language Processing](https://www.kaggle.com/romanj86/introduction-to-nlp)
 
-
-[Natrual Language Processing - Exercises](https://www.kaggle.com/romanj86/nlp-intro-exercises)
+[Notebook (Kaggle) executable: Exercise in Python - Natrual Language Processin](https://www.kaggle.com/romanj86/nlp-intro-exercises)
 
 
