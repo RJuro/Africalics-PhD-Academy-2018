@@ -32,7 +32,7 @@ Below you will find links to the different things presented during the workshop.
 
 Freshp aplication paper by Daniel, mapping the "Innovation Systems" research field. Gives a good intro in methodology, also maps the whole IS field (might be handy for you):
 
-Rakas, M and Hain, D.S. (under review). "Innovation System Research: Where It Came From, and What It Is Now – A Bibliometric Network Analysis" [--> Available open access here](https://rawgit.com/RJuro/Africalics-PhD-Academy-2018/master/slides/The_Development_of_Innovation_System_Research_RR1.pdf)
+Rakas, M and Hain, D.S. (under review). "Innovation System Research: Where It Came From, and What It Is Now – A Bibliometric Network Analysis" https://www.sciencedirect.com/science/article/pii/S0048733319301027 [--> working paper also available open access here](https://rawgit.com/RJuro/Africalics-PhD-Academy-2018/master/slides/The_Development_of_Innovation_System_Research_RR1.pdf)
 
 
 [Vosviewer](http://www.vosviewer.com/)
